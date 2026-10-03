@@ -1,0 +1,23 @@
+{
+  "now": 10,
+  "max_age": 5,
+  "quorum": 2,
+  "max_deviation": "0.1",
+  "feeds": [
+    {
+      "id": "a",
+      "timestamp": 9,
+      "price": 100
+    },
+    {
+      "id": "b",
+      "timestamp": 8,
+      "price": 102
+    },
+    {
+      "id": "c",
+      "timestamp": 1,
+      "price": 200
+    }
+  ]
+}

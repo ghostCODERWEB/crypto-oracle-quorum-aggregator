@@ -1,0 +1,14 @@
+{
+  "accepted": [
+    "a",
+    "b"
+  ],
+  "median": "101",
+  "rejected": [
+    {
+      "id": "c",
+      "reason": "timestamp"
+    }
+  ],
+  "spread": "0.0198019801980198019801980198"
+}
